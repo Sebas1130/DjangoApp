@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DjangoApp
 Resumen de las Clase de Django
 
@@ -93,3 +94,6 @@ MessageMiddleware: Pertenece al Framework de mensajes de Django, y permite pasar
 la base de datos o en memoria.
 
 XFrameOptionsMiddleware: Middleware de seguridad.
+=======
+# DjangoApp
+>>>>>>> 5826a628845c69cbe1675331e2651231b87355b6
