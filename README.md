@@ -14,10 +14,11 @@ Comparto aquí un resumen de la clase espero les sea útil:
 
 	python manage.py startapp users 
 
- Se debe importar lo que necesitamos
+ >Se debe importar lo que necesitamos
 
 	from django.contrib.auth.models import User 
-	Luego se crea los campos adicionales que se necesitan según el proyecto
+
+>Luego se crea los campos adicionales que se necesitan según el proyecto
 
 ## Profile Model.
 Modelo proxy que amplía los datos base con otra información
